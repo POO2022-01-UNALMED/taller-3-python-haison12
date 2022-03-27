@@ -6,6 +6,3 @@ class Marca:
     def get_nombre(self):
         return self.nombre
 
-
-
-
