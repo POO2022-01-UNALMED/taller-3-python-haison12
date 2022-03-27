@@ -5,7 +5,3 @@ class Marca:
         self.nombre = nombre
     def get_nombre(self):
         return self.nombre
-
-
-
-
