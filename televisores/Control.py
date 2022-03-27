@@ -36,6 +36,3 @@ class Control:
     def volumenUp(self,Tv):
         self._Tv = Tv
 
-
-
-
