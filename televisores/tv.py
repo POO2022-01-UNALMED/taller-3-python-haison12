@@ -67,5 +67,3 @@ class Tv:
     def volumenDown(self):
         if self._estado and self._volumen <= 7:
             self._volumen -= 1
-
-
